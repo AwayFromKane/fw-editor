@@ -1,2 +1,1 @@
-# fw-editor
- Editor for CRP Framework
+# Uncomment the SendEvent within fw-phone/web/src/apps/Phone/Apps/_housing.js -> OpenDecoration then Rebuild
